@@ -1,16 +1,25 @@
-## Hi there 👋
+<!-- GitHub Profile README -->
 
-<!--
-**Hartyplaza/Hartyplaza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Ofigwe Hart 👋
 
-Here are some ideas to get you started:
+**Data Scientist · ML Engineer · Building intelligent systems**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+I work at the intersection of data and decision-making — designing machine learning models, extracting insights from complex datasets, and shipping data-driven products.
+
+### 🛠 Tech stack
+
+`Python` `TensorFlow` `PyTorch` `Scikit-learn` `SQL` `Pandas` `Docker`
+
+### 📌 Currently
+
+- 🔭 Working on ML projects
+- 🌱 Always learning
+- 📫 Open to collaborations
+
+---
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hartyplaza&show_icons=true&theme=default&hide_border=true" height="150"/>
+</p>
