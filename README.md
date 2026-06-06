@@ -1,12 +1,12 @@
 <!-- GitHub Profile README -->
 
-# Hi, I'm Ofigwe Hart 👋
+# Hi, I'm Ofigwe Hart
 
 **Data Scientist · ML Engineer · Building intelligent systems**
 
 ---
 
-I work at the intersection of data and decision-making — designing machine learning models, extracting insights from complex datasets, and shipping data-driven products.
+I work at the intersection of data and decision-making, designing machine learning models, extracting insights from complex datasets and shipping data-driven products.
 
 ### 🛠 Tech stack
 
