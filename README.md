@@ -1,25 +1,18 @@
-<!-- GitHub Profile README -->
+# 💫 About Me:
+Hi, I'm Hart Ofigwe, a Data Scientist & Machine Learning Engineer passionate about turning data into practical, intelligent solutions.<br><br>I work across machine learning, data science, AI, fraud detection, computer vision, NLP, and financial analytics, with a focus on building models that go beyond experimentation and can be deployed in real-world environments.<br><br>🔭 Currently working on: Production ML, MLOps, fraud detection, and financial engineering<br>🧠 Interested in: Machine Learning • AI • Computer Vision • NLP • Risk & Fraud Analytics • Time Series • Quantitative Finance<br>🛠️ Tech: Python • SQL • Scikit-learn • XGBoost • LightGBM • PyTorch • FastAPI • Streamlit • Docker • MLflow<br>📊 Focus: Model development • Deployment • Monitoring • Model validation • Data analysis<br>🎓 Background: B.Eng. Civil Engineering + MSc Financial Engineering<br><br>I also enjoy teaching and mentoring aspiring data professionals, helping people move from learning concepts to building practical projects.<br><br>Build. Deploy. Learn. Improve.
 
-# Hi, I'm Ofigwe Hart
 
-**Data Scientist · ML Engineer · Building intelligent systems**
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/hart-ofigwe) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ofigwehart@gmail.com) 
 
----
-
-I work at the intersection of data and decision-making, designing machine learning models, extracting insights from complex datasets and shipping data-driven products.
-
-### 🛠 Tech stack
-
-`Python` `TensorFlow` `PyTorch` `Scikit-learn` `SQL` `Pandas` `Docker`
-
-### 📌 Currently
-
-- 🔭 Working on ML projects
-- 🌱 Always learning
-- 📫 Open to collaborations
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Hartyplaza&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Hartyplaza&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Hartyplaza&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=Hartyplaza&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hartyplaza&show_icons=true&theme=default&hide_border=true" height="150"/>
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
